@@ -1,0 +1,10 @@
+***TEST CASE STARTED***
+Loading Property files & configuration files
+Browser openedchrome
+Navigated to urlhttps://www.amazon.in
+Window maximized
+Cookies Deleted
+Selected the option "Electronics" using the locator:searchDropdownBox
+Text entered "iphonexr" using the locator:twotabsearchtextbox
+Clicked on Search button using the locator:(//input[normalize-space('submit-button')]//parent::span)[1]
+Browser closed
