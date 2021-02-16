@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 
 public class TC_002 extends BaseClass{
 	
-	int a =10, b = 20, c = 30;
+	int a =10, b = 20, c = 30, d = 40;
 	private static final Logger log = Logger.getLogger(TC_002.class);
 	
 	public static void main(String[] args) throws Exception {
